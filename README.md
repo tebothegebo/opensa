@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://opensa-mu.vercel.app"><img src="https://img.shields.io/badge/site-opensa.cc-2a7ae2" alt="Website" /></a>
+  <a href="https://opensa-mu.vercel.app"><img src="https://img.shields.io/badge/site-opensa-mu.vercel.app-2a7ae2" alt="Website" /></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/license-AGPL--3.0-2a7ae2" alt="License: AGPL-3.0" /></a>
 </p>
 
