@@ -66,7 +66,7 @@ copy, or redistribute their games — it's an alternative way to run a copy you 
 - "Grand Theft Auto", "GTA", "San Andreas", RenderWare, and related names, logos and trademarks belong to
   their respective owners. They are used here **only descriptively**, to state what the engine is compatible
   with — not as branding.
-- The public demo at [opensa.cc](https://opensa.cc) may load community **mod** content; all such content
+- The public demo at [opensa-mu.vercel.app](https://opensa-mu.vercel.app) may load community **mod** content; all such content
   remains the property of its respective authors.
 
 If you are a rights holder and believe anything here infringes your rights, please open an issue at
