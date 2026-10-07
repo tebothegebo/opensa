@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://opensa.cc"><img src="https://img.shields.io/badge/site-opensa.cc-2a7ae2" alt="Website" /></a>
+  <a href="https://opensa-mu.vercel.app"><img src="https://img.shields.io/badge/site-opensa.cc-2a7ae2" alt="Website" /></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/license-AGPL--3.0-2a7ae2" alt="License: AGPL-3.0" /></a>
 </p>
 
@@ -14,7 +14,7 @@ physics straight into the browser, with no install.
 > Unofficial, non-commercial fan project. Not affiliated with Rockstar Games or Take-Two.
 
 <p align="center">
-  <a href="https://opensa.cc"><img src="https://img.shields.io/badge/%E2%96%B6%20Play%20the%20Demo-opensa.cc-F55C07?style=for-the-badge" alt="Play the demo" /></a>
+  <a href="https://opensa-mu.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20Play%20the%20Demo-opensa.cc-F55C07?style=for-the-badge" alt="Play the demo" /></a>
 </p>
 
 <p align="center">
